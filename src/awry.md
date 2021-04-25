@@ -14,11 +14,11 @@ exist even fewer compile on rust stable.
 
 | Name       | Native Rust | Compiles on stable | 1.0 maturity |
 |------------|-------------|--------------------|--------------|
-| [RTIC]     | 👍          | 👍                 | ❌           |
-| [R3]       | 👍          | ❌                 | ❌           |
-| [drone]    | 👍          | ❌                 | ❌           |
-| [Tock]     | 👍          | ❌                 | ❌           |
-| [zephyr]   | ❌          | 👍                 | ❌           |
+| [RTIC]     | ✅          | ✅                 | ❌           |
+| [R3]       | ✅          | ❌                 | ❌           |
+| [drone]    | ✅          | ❌                 | ❌           |
+| [Tock]     | ✅          | ❌                 | ❌           |
+| [zephyr]   | ❌          | ✅                 | ❌           |
 | [freertos] | ❌          | Partial            | ❌           |
 
 [RTIC]: https://rtic.rs/0.5/book/en/
