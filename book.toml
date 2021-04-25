@@ -7,4 +7,3 @@ title = "Are We RTOS Yet?"
 
 [output.html]
 git-repository-url = "https://github.com/newAM/awry/"
-site-url = "/awry/"
