@@ -6,15 +6,17 @@ _The state of Real Time Operating Systems in Rust._
 
 We are not RTOS, yet.
 
-There are only a handful of RTOS' written in native rust, and of the few that
-exist even fewer compile on rust stable.
+There are only a handful of RTOS' written in rust, and only one of them compiles
+on stable.
 
 The future is bright for RTOS' in rust, the language has many features that
-benefit RTOS development;
-procedural macros allow [RTIC] to guarantee deadlock-free execution at compile
-time, `no_std` executors allow [embassy] and [drone] to provide cooperative
-scheduling with `await` syntax, and `const` functions allow [R3] to configure
-the RTOS as much as possible at compile time.
+benefit RTOS development:
+* Procedural macros allow [RTIC] to guarantee deadlock-free execution at compile
+  time.
+* `no_std` executors allow [embassy] and [drone] to provide cooperative
+  scheduling with `await` syntax
+* `const` functions allow [R3] to configure the RTOS as much as possible at
+  compile time
 
 ## Ecosystem
 
@@ -26,6 +28,7 @@ the RTOS as much as possible at compile time.
 | [R3]       | ✅          | ❌                 | ❌           |
 | [RTIC]     | ✅          | ✅                 | ❌           |
 | [Tock]     | ✅          | ❌                 | ❌           |
+| [tornado]  | ✅          | ❌                 | ❌           |
 | [zephyr]   | ❌          | ✅                 | ❌           |
 
 [drone]: https://www.drone-os.com/
@@ -34,4 +37,5 @@ the RTOS as much as possible at compile time.
 [R3]: https://crates.io/crates/r3
 [RTIC]: https://rtic.rs/0.5/book/en/
 [Tock]: https://www.tockos.org/
+[tornado]: https://github.com/HUST-OS/tornado-os
 [zephyr]: https://github.com/tylerwhall/zephyr-rust
