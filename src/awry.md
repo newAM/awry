@@ -20,16 +20,16 @@ benefit RTOS development:
 
 ## Ecosystem
 
-| Name       | Native Rust | Compiles on stable | 1.0 maturity |
-|------------|-------------|--------------------|--------------|
-| [drone]    | ✅          | ❌                 | ❌           |
-| [embassy]  | ✅          | ❌                 | ❌           |
-| [freertos] | ❌          | Partial            | ❌           |
-| [R3]       | ✅          | ❌                 | ❌           |
-| [RTIC]     | ✅          | ✅                 | ❌           |
-| [Tock]     | ✅          | ❌                 | ❌           |
-| [tornado]  | ✅          | ❌                 | ❌           |
-| [zephyr]   | ❌          | ✅                 | ❌           |
+| Name       | Native Rust | Compiles on stable | 1.0 maturity | Language(s) |
+|------------|-------------|--------------------|--------------|-------------|
+| [drone]    | ✅          | ❌                 | ❌           | en          |
+| [embassy]  | ✅          | ❌                 | ❌           | en          |
+| [freertos] | ❌          | Partial            | ❌           | en          |
+| [R3]       | ✅          | ❌                 | ❌           | en          |
+| [RTIC]     | ✅          | ✅                 | ❌           | en, ru      |
+| [Tock]     | ✅          | ❌                 | ❌           | en          |
+| [tornado]  | ✅          | ❌                 | ❌           | zh          |
+| [zephyr]   | ❌          | ✅                 | ❌           | en          |
 
 [drone]: https://www.drone-os.com/
 [embassy]: https://github.com/embassy-rs/embassy
