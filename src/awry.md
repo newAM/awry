@@ -22,6 +22,7 @@ benefit RTOS development:
 
 | Name       | Native Rust | Compiles on stable | 1.0 maturity | Language(s) |
 |------------|-------------|--------------------|--------------|-------------|
+| [bern]     | ✅          | ❌                 | ❌           | en          |
 | [drone]    | ✅          | ❌                 | ❌           | en          |
 | [embassy]  | ✅          | ❌                 | ❌           | en          |
 | [freertos] | ❌          | Partial            | ❌           | en          |
@@ -31,6 +32,7 @@ benefit RTOS development:
 | [tornado]  | ✅          | ❌                 | ❌           | zh          |
 | [zephyr]   | ❌          | ✅                 | ❌           | en          |
 
+[bern]: https://bern-rtos.org/
 [drone]: https://www.drone-os.com/
 [embassy]: https://github.com/embassy-rs/embassy
 [freertos]: https://github.com/lobaro/FreeRTOS-rust
