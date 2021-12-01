@@ -26,6 +26,7 @@ benefit RTOS development:
 | [drone]    | ✅          | ❌                 | ❌           | en          |
 | [embassy]  | ✅          | ❌                 | ❌           | en          |
 | [freertos] | ❌          | Partial            | ❌           | en          |
+| [hubris]   | ✅          | ❌                 | ❌           | en          |
 | [R3]       | ✅          | ❌                 | ❌           | en          |
 | [RTIC]     | ✅          | ✅                 | ❌           | en, ru      |
 | [Tock]     | ✅          | ❌                 | ❌           | en          |
@@ -36,6 +37,7 @@ benefit RTOS development:
 [drone]: https://www.drone-os.com/
 [embassy]: https://github.com/embassy-rs/embassy
 [freertos]: https://github.com/lobaro/FreeRTOS-rust
+[hubris]: https://hubris.oxide.computer/
 [R3]: https://crates.io/crates/r3
 [RTIC]: https://rtic.rs/0.5/book/en/
 [Tock]: https://www.tockos.org/
