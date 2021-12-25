@@ -28,7 +28,7 @@ benefit RTOS development:
 | [freertos] | ❌          | Partial            | ❌           | en          |
 | [hubris]   | ✅          | ❌                 | ❌           | en          |
 | [R3]       | ✅          | ❌                 | ❌           | en          |
-| [RTIC]     | ✅          | ✅                 | ❌           | en, ru      |
+| [RTIC]     | ✅          | ✅                 | ✅           | en, ru      |
 | [Tock]     | ✅          | ❌                 | ❌           | en          |
 | [tornado]  | ✅          | ❌                 | ❌           | zh          |
 | [zephyr]   | ❌          | ✅                 | ❌           | en          |
