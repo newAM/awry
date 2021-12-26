@@ -20,18 +20,18 @@ benefit RTOS development:
 
 ## Ecosystem
 
-| Name       | Native Rust | Compiles on stable | Language(s) |
-|------------|-------------|--------------------|-------------|
-| [bern]     | ✅          | ❌                 | en          |
-| [drone]    | ✅          | ❌                 | en          |
-| [embassy]  | ✅          | ❌                 | en          |
-| [freertos] | ❌          | Partial            | en          |
-| [hubris]   | ✅          | ❌                 | en          |
-| [R3]       | ✅          | ❌                 | en          |
-| [RTIC]     | ✅          | ✅                 | en, ru      |
-| [Tock]     | ✅          | ❌                 | en          |
-| [tornado]  | ✅          | ❌                 | zh          |
-| [zephyr]   | ❌          | ✅                 | en          |
+| Name       | Native Rust | Compiles on stable | License                    | Language(s) |
+|------------|-------------|--------------------|----------------------------|-------------|
+| [bern]     | ✅          | ❌                 | MIT                        | en          |
+| [drone]    | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
+| [embassy]  | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
+| [freertos] | ❌          | Partial            | MIT                        | en          |
+| [hubris]   | ✅          | ❌                 | MPL-2.0                    | en          |
+| [R3]       | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
+| [RTIC]     | ✅          | ✅                 | MIT OR Apache-2.0          | en, ru      |
+| [Tock]     | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
+| [tornado]  | ✅          | ❌                 | Apache-2.0 OR MulanPSL-2.0 | zh          |
+| [zephyr]   | ❌          | ✅                 | Apache-2.0                 | en          |
 
 ### Stats
 
