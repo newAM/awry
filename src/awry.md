@@ -54,7 +54,7 @@ benefit RTOS development:
 [freertos]: https://github.com/lobaro/FreeRTOS-rust
 [hubris]: https://hubris.oxide.computer/
 [R3]: https://crates.io/crates/r3
-[RTIC]: https://rtic.rs/0.5/book/en/
+[RTIC]: https://rtic.rs/1.0/book/en/
 [Tock]: https://www.tockos.org/
 [tornado]: https://github.com/HUST-OS/tornado-os
 [zephyr]: https://github.com/tylerwhall/zephyr-rust
