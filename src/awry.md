@@ -28,7 +28,7 @@ benefit RTOS development:
 | [freertos] | ❌          | Partial            | MIT                        | en          |
 | [hubris]   | ✅          | ❌                 | MPL-2.0                    | en          |
 | [R3]       | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
-| [RIOT-OS]  | ❌          | Partial            | LGPL-2.1                   | en          |
+| [RIOT-OS]  | ❌          | ✅                 | LGPL-2.1                   | en          |
 | [RTIC]     | ✅          | ✅                 | MIT OR Apache-2.0          | en, ru      |
 | [Tock]     | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
 | [tornado]  | ✅          | ❌                 | Apache-2.0 OR MulanPSL-2.0 | zh          |
