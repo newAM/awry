@@ -20,6 +20,10 @@ benefit RTOS development:
 
 ## Ecosystem
 
+Many of these are not _true_ RTOS':
+* Some are not real-time
+* Some are more accurately described as execution frameworks instead of operating systems
+
 | Name       | Native Rust | Compiles on stable | License                    | Language(s) |
 |------------|-------------|--------------------|----------------------------|-------------|
 | [bern]     | ✅          | ❌                 | MIT                        | en          |
