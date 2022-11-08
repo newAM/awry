@@ -64,7 +64,7 @@ Many of these are not _true_ RTOS':
 [MnemOS]: https://jamesmunns.com/blog/mnemos-initial-release/
 [R3]: https://crates.io/crates/r3
 [RIOT-OS]: https://doc.riot-os.org/using-rust.html
-[RTIC]: https://rtic.rs/1.0/book/en/
+[RTIC]: https://rtic.rs/1/book/en/
 [Tock]: https://www.tockos.org/
 [tornado]: https://github.com/HUST-OS/tornado-os
 [zephyr]: https://github.com/tylerwhall/zephyr-rust
