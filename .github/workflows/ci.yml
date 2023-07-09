@@ -2,6 +2,7 @@ name: CI
 
 on:
   pull_request:
+  merge_group:
 
 jobs:
   check:
@@ -12,6 +13,6 @@ jobs:
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v1
         with:
-          mdbook-version: '0.4.21'
+          mdbook-version: '0.4.31'
 
       - run: mdbook build
