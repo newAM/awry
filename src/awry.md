@@ -28,7 +28,7 @@ Many of these are not _true_ RTOS':
 |------------|-------------|--------------------|----------------------------|-------------|
 | [bern]     | ✅          | ❌                 | MIT                        | en          |
 | [drone]    | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
-| [embassy]  | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
+| [embassy]  | ✅          | ✅                 | MIT OR Apache-2.0          | en          |
 | [freertos] | ❌          | Partial            | MIT                        | en          |
 | [hubris]   | ✅          | ❌                 | MPL-2.0                    | en          |
 | [lilos]    | ✅          | ✅                 | MPL-2.0                    | en          |
