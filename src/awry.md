@@ -26,6 +26,7 @@ Many of these are not _true_ RTOS':
 
 | Name       | Native Rust | Compiles on stable | License                    | Language(s) |
 |------------|-------------|--------------------|----------------------------|-------------|
+| [aerugo]   | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
 | [bern]     | ✅          | ❌                 | MIT                        | en          |
 | [drone]    | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
 | [embassy]  | ✅          | ✅                 | MIT OR Apache-2.0          | en          |
@@ -44,6 +45,7 @@ Many of these are not _true_ RTOS':
 
 | Name       | Stars | Forks | Issues |
 |------------|-------|-------|--------|
+| [aerugo]    | [![GitHub stars](https://img.shields.io/github/stars/n7space/aerugo)](https://github.com/n7space/aerugo/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/n7space/aerugo)](https://github.com/n7space/aerugo) | [![GitHub issues](https://img.shields.io/github/issues/n7space/aerugo)](https://github.com/n7space/aerugo/issues) |
 | [bern]     | N/A   | N/A   | N/A    |
 | [drone]    | [![GitHub stars](https://img.shields.io/github/stars/drone-os/drone-core)](https://github.com/drone-os/drone-core/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/drone-os/drone-core)](https://github.com/drone-os/drone-core/network) | [![GitHub issues](https://img.shields.io/github/issues/drone-os/drone-core)](https://github.com/drone-os/drone-core/issues) |
 | [embassy]  | [![GitHub stars](https://img.shields.io/github/stars/embassy-rs/embassy)](https://github.com/embassy-rs/embassy/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/embassy-rs/embassy)](https://github.com/embassy-rs/embassy/network) | [![GitHub issues](https://img.shields.io/github/issues/embassy-rs/embassy)](https://github.com/embassy-rs/embassy/issues) |
@@ -58,6 +60,7 @@ Many of these are not _true_ RTOS':
 | [tornado]  | [![GitHub stars](https://img.shields.io/github/stars/HUST-OS/tornado-os)](https://github.com/HUST-OS/tornado-os/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/HUST-OS/tornado-os)](https://github.com/HUST-OS/tornado-os/network) | [![GitHub issues](https://img.shields.io/github/issues/HUST-OS/tornado-os)](https://github.com/HUST-OS/tornado-os/issues) |
 | [zephyr]   | [![GitHub stars](https://img.shields.io/github/stars/tylerwhall/zephyr-rust)](https://github.com/tylerwhall/zephyr-rust/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/tylerwhall/zephyr-rust)](https://github.com/tylerwhall/zephyr-rust/network) | [![GitHub issues](https://img.shields.io/github/issues/tylerwhall/zephyr-rust)](https://github.com/tylerwhall/zephyr-rust/issues) |
 
+[aerugo]: https://github.com/n7space/aerugo
 [bern]: https://bern-rtos.org/
 [drone]: https://www.drone-os.com/
 [embassy]: https://github.com/embassy-rs/embassy
