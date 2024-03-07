@@ -39,6 +39,7 @@ Many of these are not _true_ RTOS':
 | [RTIC]     | ✅          | ✅                 | MIT OR Apache-2.0          | en, ru      |
 | [Tock]     | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
 | [tornado]  | ✅          | ❌                 | Apache-2.0 OR MulanPSL-2.0 | zh          |
+| [Wasefire] | ✅          | ❌                 | Apache-2.0                 | en          |
 | [zephyr]   | ❌          | ✅                 | Apache-2.0                 | en          |
 
 ### Stats
@@ -58,6 +59,7 @@ Many of these are not _true_ RTOS':
 | [RTIC]     | [![GitHub stars](https://img.shields.io/github/stars/rtic-rs/cortex-m-rtic)](https://github.com/rtic-rs/cortex-m-rtic/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/rtic-rs/cortex-m-rtic)](https://github.com/rtic-rs/cortex-m-rtic/network) | [![GitHub issues](https://img.shields.io/github/issues/rtic-rs/cortex-m-rtic)](https://github.com/rtic-rs/cortex-m-rtic/issues) |
 | [Tock]     | [![GitHub stars](https://img.shields.io/github/stars/tock/tock)](https://github.com/tock/tock/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/tock/tock)](https://github.com/tock/tock/network) | [![GitHub issues](https://img.shields.io/github/issues/tock/tock)](https://github.com/tock/tock/issues) |
 | [tornado]  | [![GitHub stars](https://img.shields.io/github/stars/HUST-OS/tornado-os)](https://github.com/HUST-OS/tornado-os/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/HUST-OS/tornado-os)](https://github.com/HUST-OS/tornado-os/network) | [![GitHub issues](https://img.shields.io/github/issues/HUST-OS/tornado-os)](https://github.com/HUST-OS/tornado-os/issues) |
+| [Wasefire] | [![GitHub stars](https://img.shields.io/github/stars/google/wasefire)](https://github.com/google/wasefire/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/google/wasefire)](https://github.com/google/wasefire/network) | [![GitHub issues](https://img.shields.io/github/issues/google/wasefire)](https://github.com/google/wasefire/issues) |
 | [zephyr]   | [![GitHub stars](https://img.shields.io/github/stars/tylerwhall/zephyr-rust)](https://github.com/tylerwhall/zephyr-rust/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/tylerwhall/zephyr-rust)](https://github.com/tylerwhall/zephyr-rust/network) | [![GitHub issues](https://img.shields.io/github/issues/tylerwhall/zephyr-rust)](https://github.com/tylerwhall/zephyr-rust/issues) |
 
 [aerugo]: https://github.com/n7space/aerugo
@@ -73,4 +75,5 @@ Many of these are not _true_ RTOS':
 [RTIC]: https://rtic.rs/1/book/en/
 [Tock]: https://www.tockos.org/
 [tornado]: https://github.com/HUST-OS/tornado-os
+[Wasefire]: https://google.github.io/wasefire/
 [zephyr]: https://github.com/tylerwhall/zephyr-rust
