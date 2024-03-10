@@ -37,7 +37,7 @@ Many of these are not _true_ RTOS':
 | [R3]       | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
 | [RIOT-OS]  | ❌          | ✅                 | LGPL-2.1                   | en          |
 | [RTIC]     | ✅          | ✅                 | MIT OR Apache-2.0          | en, ru      |
-| [Tock]     | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
+| [Tock]     | ✅          | Partial            | MIT OR Apache-2.0          | en          |
 | [tornado]  | ✅          | ❌                 | Apache-2.0 OR MulanPSL-2.0 | zh          |
 | [Wasefire] | ✅          | ❌                 | Apache-2.0                 | en          |
 | [zephyr]   | ❌          | ✅                 | Apache-2.0                 | en          |
