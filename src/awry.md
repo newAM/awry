@@ -36,6 +36,7 @@ Many of these are not _true_ RTOS':
 | [MnemOS]   | ✅          | ✅                 | MIT OR Apache-2.0          | en          |
 | [R3]       | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
 | [RIOT-OS]  | ❌          | ✅                 | LGPL-2.1                   | en          |
+| [rt]       | ❌          | ✅                 | Apache-2.0                 | en          |
 | [RTIC]     | ✅          | ✅                 | MIT OR Apache-2.0          | en, ru      |
 | [Tock]     | ✅          | Partial            | MIT OR Apache-2.0          | en          |
 | [tornado]  | ✅          | ❌                 | Apache-2.0 OR MulanPSL-2.0 | zh          |
@@ -56,6 +57,7 @@ Many of these are not _true_ RTOS':
 | [lilos]   | [![GitHub stars](https://img.shields.io/github/stars/cbiffle/lilos)](https://github.com/cbiffle/lilos/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/cbiffle/lilos)](https://github.com/cbiffle/lilos/network) | [![GitHub issues](https://img.shields.io/github/issues/cbiffle/lilos)](https://github.com/cbiffle/lilos/issues) |
 | [R3]       | [![GitHub stars](https://img.shields.io/github/stars/r3-os/r3)](https://github.com/r3-os/r3/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/r3-os/r3)](https://github.com/r3-os/r3/network) | [![GitHub issues](https://img.shields.io/github/issues/r3-os/r3)](https://github.com/r3-os/r3/issues) |
 | [RIOT-OS]  | [![GitHub stars](https://img.shields.io/github/stars/RIOT-OS/RIOT)](https://github.com/RIOT-OS/RIOT/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/RIOT-OS/RIOT)](https://github.com/RIOT-OS/RIOT/network) | [![GitHub issues](https://img.shields.io/github/issues/RIOT-OS/RIOT)](https://github.com/RIOT-OS/RIOT/issues) |
+| [rt]       | N/A   | N/A   | N/A    |
 | [RTIC]     | [![GitHub stars](https://img.shields.io/github/stars/rtic-rs/cortex-m-rtic)](https://github.com/rtic-rs/cortex-m-rtic/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/rtic-rs/cortex-m-rtic)](https://github.com/rtic-rs/cortex-m-rtic/network) | [![GitHub issues](https://img.shields.io/github/issues/rtic-rs/cortex-m-rtic)](https://github.com/rtic-rs/cortex-m-rtic/issues) |
 | [Tock]     | [![GitHub stars](https://img.shields.io/github/stars/tock/tock)](https://github.com/tock/tock/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/tock/tock)](https://github.com/tock/tock/network) | [![GitHub issues](https://img.shields.io/github/issues/tock/tock)](https://github.com/tock/tock/issues) |
 | [tornado]  | [![GitHub stars](https://img.shields.io/github/stars/HUST-OS/tornado-os)](https://github.com/HUST-OS/tornado-os/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/HUST-OS/tornado-os)](https://github.com/HUST-OS/tornado-os/network) | [![GitHub issues](https://img.shields.io/github/issues/HUST-OS/tornado-os)](https://github.com/HUST-OS/tornado-os/issues) |
@@ -72,6 +74,7 @@ Many of these are not _true_ RTOS':
 [lilos]: https://github.com/cbiffle/lilos
 [R3]: https://crates.io/crates/r3
 [RIOT-OS]: https://doc.riot-os.org/using-rust.html
+[rt]: https://crates.io/crates/rt
 [RTIC]: https://rtic.rs/1/book/en/
 [Tock]: https://www.tockos.org/
 [tornado]: https://github.com/HUST-OS/tornado-os
