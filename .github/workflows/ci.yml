@@ -1,18 +1,38 @@
-name: CI
+name: github pages
 
 on:
   pull_request:
   merge_group:
+  push:
+    branches:
+      - main
 
 jobs:
-  check:
+  mdbook:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v1
+      - uses: cachix/install-nix-action@v26
+      - run: nix build
+      # https://github.com/actions/upload-pages-artifact?tab=readme-ov-file#file-permissions
+      - name: fix permissions
+        run: |
+          cp -rL result public
+          chmod 777 -R public
+      - uses: actions/upload-pages-artifact@v3
         with:
-          mdbook-version: '0.4.31'
-
-      - run: mdbook build
+          path: ./public
+            
+  deploy:
+    runs-on: ubuntu-latest
+    needs: mdbook
+    if: ${{ github.ref == 'refs/heads/main' }}
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
