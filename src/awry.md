@@ -6,10 +6,10 @@ _The state of Real Time Operating Systems in Rust._
 
 We are not RTOS, yet.
 
-There are only a handful of RTOS' written in rust, and only one of them compiles
+There are only a handful of RTOSs written in rust, and only one of them compiles
 on stable.
 
-The future is bright for RTOS' in rust, the language has many features that
+The future is bright for RTOSs in rust, the language has many features that
 benefit RTOS development:
 * Procedural macros allow [RTIC] to guarantee deadlock-free execution at compile
   time.
@@ -20,7 +20,7 @@ benefit RTOS development:
 
 ## Ecosystem
 
-Many of these are not _true_ RTOS':
+Many of these are not _true_ RTOSs:
 * Some are not real-time
 * Some are more accurately described as execution frameworks instead of operating systems
 
