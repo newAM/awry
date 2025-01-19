@@ -4,23 +4,15 @@ _The state of Real Time Operating Systems in Rust._
 
 ## Status
 
-We are not RTOS, yet.
+We are RTOS!
 
-There are only a handful of RTOSs written in rust, and only one of them compiles
-on stable.
+Rust has several mature options for RTOS' that are written entirely in rust (+ASM), and compile on the stable toolchain.
 
-The future is bright for RTOSs in rust, the language has many features that
-benefit RTOS development:
-* Procedural macros allow [RTIC] to guarantee deadlock-free execution at compile
-  time.
-* `no_std` executors allow [embassy] and [drone] to provide cooperative
-  scheduling with `await` syntax
-* `const` functions allow [R3] to configure the RTOS as much as possible at
-  compile time
+For more information about embedded rust check out [The Embedded Rust Book](https://docs.rust-embedded.org/book/).
 
 ## Ecosystem
 
-Many of these are not _true_ RTOSs:
+Some of these are not _true_ RTOSs:
 * Some are not real-time
 * Some are more accurately described as execution frameworks instead of operating systems
 
