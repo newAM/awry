@@ -19,6 +19,7 @@ Some of these are not _true_ RTOSs:
 | Name       | Native Rust | Compiles on stable | License                    | Language(s) |
 |------------|-------------|--------------------|----------------------------|-------------|
 | [aerugo]   | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
+| [Ariel OS] | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
 | [bern]     | ✅          | ❌                 | MIT                        | en          |
 | [drone]    | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
 | [embassy]  | ✅          | ✅                 | MIT OR Apache-2.0          | en          |
@@ -41,6 +42,7 @@ Some of these are not _true_ RTOSs:
 | Name       | Stars | Forks | Issues |
 |------------|-------|-------|--------|
 | [aerugo]    | [![GitHub stars](https://img.shields.io/github/stars/n7space/aerugo)](https://github.com/n7space/aerugo/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/n7space/aerugo)](https://github.com/n7space/aerugo) | [![GitHub issues](https://img.shields.io/github/issues/n7space/aerugo)](https://github.com/n7space/aerugo/issues) |
+| [Ariel OS] | [![GitHub stars](https://img.shields.io/github/stars/ariel-os/ariel-os)](https://github.com/ariel-os/ariel-os/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/ariel-os/ariel-os)](https://github.com/ariel-os/ariel-os/network) | [![GitHub issues](https://img.shields.io/github/issues/ariel-os/ariel-os)](https://github.com/ariel-os/ariel-os/issues) |
 | [bern]     | N/A   | N/A   | N/A    |
 | [drone]    | [![GitHub stars](https://img.shields.io/github/stars/drone-os/drone-core)](https://github.com/drone-os/drone-core/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/drone-os/drone-core)](https://github.com/drone-os/drone-core/network) | [![GitHub issues](https://img.shields.io/github/issues/drone-os/drone-core)](https://github.com/drone-os/drone-core/issues) |
 | [embassy]  | [![GitHub stars](https://img.shields.io/github/stars/embassy-rs/embassy)](https://github.com/embassy-rs/embassy/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/embassy-rs/embassy)](https://github.com/embassy-rs/embassy/network) | [![GitHub issues](https://img.shields.io/github/issues/embassy-rs/embassy)](https://github.com/embassy-rs/embassy/issues) |
@@ -59,6 +61,7 @@ Some of these are not _true_ RTOSs:
 | [zephyr-project]   | [![GitHub stars](https://img.shields.io/github/stars/zephyrproject-rtos/zephyr-lang-rust)](https://github.com/zephyrproject-rtos/zephyr-lang-rust/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/zephyrproject-rtos/zephyr-lang-rust)](https://github.com/zephyrproject-rtos/zephyr-lang-rust/network) | [![GitHub issues](https://img.shields.io/github/issues/zephyrproject-rtos/zephyr-lang-rust)](https://github.com/zephyrproject-rtos/zephyr-lang-rust/issues) |
 
 [aerugo]: https://github.com/n7space/aerugo
+[Ariel OS]: https://ariel-os.org/
 [bern]: https://bern-rtos.org/
 [drone]: https://www.drone-os.com/
 [embassy]: https://github.com/embassy-rs/embassy
