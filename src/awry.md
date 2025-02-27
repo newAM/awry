@@ -34,6 +34,7 @@ Some of these are not _true_ RTOSs:
 | [tornado]  | ✅          | ❌                 | Apache-2.0 OR MulanPSL-2.0 | zh          |
 | [Wasefire] | ✅          | ❌                 | Apache-2.0                 | en          |
 | [zephyr]   | ❌          | ✅                 | Apache-2.0                 | en          |
+| [zephyr-project]   | ❌          | ✅                 | Apache-2.0                 | en          |
 
 ### Stats
 
@@ -55,6 +56,7 @@ Some of these are not _true_ RTOSs:
 | [tornado]  | [![GitHub stars](https://img.shields.io/github/stars/HUST-OS/tornado-os)](https://github.com/HUST-OS/tornado-os/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/HUST-OS/tornado-os)](https://github.com/HUST-OS/tornado-os/network) | [![GitHub issues](https://img.shields.io/github/issues/HUST-OS/tornado-os)](https://github.com/HUST-OS/tornado-os/issues) |
 | [Wasefire] | [![GitHub stars](https://img.shields.io/github/stars/google/wasefire)](https://github.com/google/wasefire/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/google/wasefire)](https://github.com/google/wasefire/network) | [![GitHub issues](https://img.shields.io/github/issues/google/wasefire)](https://github.com/google/wasefire/issues) |
 | [zephyr]   | [![GitHub stars](https://img.shields.io/github/stars/tylerwhall/zephyr-rust)](https://github.com/tylerwhall/zephyr-rust/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/tylerwhall/zephyr-rust)](https://github.com/tylerwhall/zephyr-rust/network) | [![GitHub issues](https://img.shields.io/github/issues/tylerwhall/zephyr-rust)](https://github.com/tylerwhall/zephyr-rust/issues) |
+| [zephyr-project]   | [![GitHub stars](https://img.shields.io/github/stars/zephyrproject-rtos/zephyr-lang-rust)](https://github.com/zephyrproject-rtos/zephyr-lang-rust/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/zephyrproject-rtos/zephyr-lang-rust)](https://github.com/zephyrproject-rtos/zephyr-lang-rust/network) | [![GitHub issues](https://img.shields.io/github/issues/zephyrproject-rtos/zephyr-lang-rust)](https://github.com/zephyrproject-rtos/zephyr-lang-rust/issues) |
 
 [aerugo]: https://github.com/n7space/aerugo
 [bern]: https://bern-rtos.org/
@@ -72,3 +74,4 @@ Some of these are not _true_ RTOSs:
 [tornado]: https://github.com/HUST-OS/tornado-os
 [Wasefire]: https://google.github.io/wasefire/
 [zephyr]: https://github.com/tylerwhall/zephyr-rust
+[zephyr-project]: https://github.com/zephyrproject-rtos/zephyr-lang-rust/
