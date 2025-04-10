@@ -19,7 +19,7 @@ Some of these are not _true_ RTOSs:
 | Name       | Native Rust | Compiles on stable | License                    | Language(s) |
 |------------|-------------|--------------------|----------------------------|-------------|
 | [aerugo]   | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
-| [Ariel OS] | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
+| [Ariel OS] | ✅          | ✅                 | MIT OR Apache-2.0          | en          |
 | [bern]     | ✅          | ❌                 | MIT                        | en          |
 | [drone]    | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
 | [embassy]  | ✅          | ✅                 | MIT OR Apache-2.0          | en          |
