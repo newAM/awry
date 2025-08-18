@@ -12,7 +12,7 @@ jobs:
   mdbook:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: cachix/install-nix-action@v31
       - run: nix build
       # https://github.com/actions/upload-pages-artifact?tab=readme-ov-file#file-permissions
