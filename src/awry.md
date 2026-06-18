@@ -27,6 +27,7 @@ Some of these are not _true_ RTOSs:
 | [hubris]   | ✅          | ❌                 | MPL-2.0                    | en          |
 | [lilos]    | ✅          | ✅                 | MPL-2.0                    | en          |
 | [MnemOS]   | ✅          | ✅                 | MIT OR Apache-2.0          | en          |
+| [Nuttx]    | ❌          | ✅                 | Apache-2.0                 | en          |
 | [R3]       | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
 | [RIOT-OS]  | ❌          | ✅                 | LGPL-2.1                   | en          |
 | [rt]       | ❌          | ✅                 | Apache-2.0                 | en          |
@@ -50,6 +51,7 @@ Some of these are not _true_ RTOSs:
 | [hubris]   | [![GitHub stars](https://img.shields.io/github/stars/oxidecomputer/hubris)](https://github.com/oxidecomputer/hubris/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/oxidecomputer/hubris)](https://github.com/oxidecomputer/hubris/network) | [![GitHub issues](https://img.shields.io/github/issues/oxidecomputer/hubris)](https://github.com/oxidecomputer/hubris/issues) |
 | [lilos]   | [![GitHub stars](https://img.shields.io/github/stars/cbiffle/lilos)](https://github.com/cbiffle/lilos/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/cbiffle/lilos)](https://github.com/cbiffle/lilos/network) | [![GitHub issues](https://img.shields.io/github/issues/cbiffle/lilos)](https://github.com/cbiffle/lilos/issues) |
 | [MnemOS]   | [![GitHub stars](https://img.shields.io/github/stars/jamesmunns/pellegrino)](https://github.com/jamesmunns/pellegrino/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/jamesmunns/pellegrino)](https://github.com/jamesmunns/pellegrino/network) | [![GitHub issues](https://img.shields.io/github/issues/jamesmunns/pellegrino)](https://github.com/jamesmunns/pellegrino/issues) |
+| [Nuttx]    | [![GitHub stars](https://img.shields.io/github/stars/apache/nuttx)](https://github.com/apache/nuttx/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/apache/nuttx)](https://github.com/apache/nuttx/network) | [![GitHub issues](https://img.shields.io/github/issues/apache/nuttx)](https://github.com/apache/nuttx/issues) |
 | [R3]       | [![GitHub stars](https://img.shields.io/github/stars/r3-os/r3)](https://github.com/r3-os/r3/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/r3-os/r3)](https://github.com/r3-os/r3/network) | [![GitHub issues](https://img.shields.io/github/issues/r3-os/r3)](https://github.com/r3-os/r3/issues) |
 | [RIOT-OS]  | [![GitHub stars](https://img.shields.io/github/stars/RIOT-OS/RIOT)](https://github.com/RIOT-OS/RIOT/stargazers) | [![GitHub forks](https://img.shields.io/github/forks/RIOT-OS/RIOT)](https://github.com/RIOT-OS/RIOT/network) | [![GitHub issues](https://img.shields.io/github/issues/RIOT-OS/RIOT)](https://github.com/RIOT-OS/RIOT/issues) |
 | [rt]       | N/A   | N/A   | N/A    |
