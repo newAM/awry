@@ -71,6 +71,7 @@ Some of these are not _true_ RTOSs:
 [hubris]: https://hubris.oxide.computer/
 [MnemOS]: https://jamesmunns.com/blog/mnemos-initial-release/
 [lilos]: https://github.com/cbiffle/lilos
+[NuttX]: https://github.com/apache/nuttx
 [R3]: https://crates.io/crates/r3
 [RIOT-OS]: https://doc.riot-os.org/using-rust.html
 [rt]: https://crates.io/crates/rt
