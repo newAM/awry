@@ -18,25 +18,30 @@ Some of these are not _true_ RTOSs:
 
 | Name       | Native Rust | Compiles on stable | License                    | Language(s) |
 |------------|-------------|--------------------|----------------------------|-------------|
-| [aerugo]   | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
 | [Ariel OS] | ✅          | ✅                 | MIT OR Apache-2.0          | en          |
-| [bern]     | ✅          | ❌                 | MIT                        | en          |
-| [drone]    | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
 | [embassy]  | ✅          | ✅                 | MIT OR Apache-2.0          | en          |
 | [freertos] | ❌          | Partial            | MIT                        | en          |
 | [hubris]   | ✅          | ❌                 | MPL-2.0                    | en          |
-| [lilos]    | ✅          | ✅                 | MPL-2.0                    | en          |
-| [MnemOS]   | ✅          | ✅                 | MIT OR Apache-2.0          | en          |
 | [NuttX]    | ❌          | ✅                 | Apache-2.0                 | en          |
-| [R3]       | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
 | [RIOT-OS]  | ❌          | ✅                 | LGPL-2.1                   | en          |
 | [rt]       | ❌          | ✅                 | Apache-2.0                 | en          |
 | [RTIC]     | ✅          | ✅                 | MIT OR Apache-2.0          | en, ru      |
 | [Tock]     | ✅          | Partial            | MIT OR Apache-2.0          | en          |
-| [tornado]  | ✅          | ❌                 | Apache-2.0 OR MulanPSL-2.0 | zh          |
 | [Wasefire] | ✅          | ❌                 | Apache-2.0                 | en          |
+| [zephyr-project]  | ❌   | ✅                 | Apache-2.0                 | en          |
+
+## Outdated projects
+
+| Name       | Native Rust | Compiles on stable | License                    | Language(s) |
+|------------|-------------|--------------------|----------------------------|-------------|
+| [aerugo]   | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
+| [bern]     | ✅          | ❌                 | MIT                        | en          |
+| [drone]    | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
+| [lilos]    | ✅          | ✅                 | MPL-2.0                    | en          |
+| [MnemOS]   | ✅          | ✅                 | MIT OR Apache-2.0          | en          |
+| [R3]       | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
+| [tornado]  | ✅          | ❌                 | Apache-2.0 OR MulanPSL-2.0 | zh          |
 | [zephyr]   | ❌          | ✅                 | Apache-2.0                 | en          |
-| [zephyr-project]   | ❌          | ✅                 | Apache-2.0                 | en          |
 
 ### Stats
 
