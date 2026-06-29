@@ -48,6 +48,8 @@ Some of these are not _true_ RTOSs:
 
 ## Outdated projects
 
+These projects are no longer actively maintained.
+
 | Name       | Native Rust | Compiles on stable | License                    | Language(s) |
 |------------|-------------|--------------------|----------------------------|-------------|
 | [aerugo]   | ✅          | ❌                 | MIT OR Apache-2.0          | en          |
