@@ -21,7 +21,7 @@ Some of these are not _true_ RTOSs:
 | [Ariel OS] | ✅          | ✅                 | MIT OR Apache-2.0          | en          |
 | [embassy]  | ✅          | ✅                 | MIT OR Apache-2.0          | en          |
 | [freertos] | ❌          | Partial            | MIT                        | en          |
-| [hubris]   | ✅          | ❌                 | MPL-2.0                    | en          |
+| [hubris]   | ✅          | ✅                 | MPL-2.0                    | en          |
 | [NuttX]    | ❌          | ✅                 | Apache-2.0                 | en          |
 | [RIOT-OS]  | ❌          | ✅                 | LGPL-2.1                   | en          |
 | [rt]       | ❌          | ✅                 | Apache-2.0                 | en          |
